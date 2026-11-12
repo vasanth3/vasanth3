@@ -104,7 +104,7 @@ I'm a **Red Hat Certified System Administrator (RHCSA)** and currently expanding
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vasanth36890&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vasanth3&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -121,7 +121,7 @@ I'm a **Red Hat Certified System Administrator (RHCSA)** and currently expanding
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasanth36890&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasanth3&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
