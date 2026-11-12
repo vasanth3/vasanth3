@@ -115,13 +115,6 @@ I'm a **Red Hat Certified System Administrator (RHCSA)** and currently expanding
 </p>
 
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vasanth3&theme=tokyonight-duo&hide_border=true" />
-</p>
-
----
 
 ## 📈 Activity Graph
 
