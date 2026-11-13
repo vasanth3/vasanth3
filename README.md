@@ -119,9 +119,11 @@ I'm a **Red Hat Certified System Administrator (RHCSA)** and currently expanding
 
 
 
-## 📈 Activity Graph
 
-[![Vasanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasanth3&theme=tokyo-night&hide_border=true&area=true)](https://github.com/vasanth3)
+## 📈 GitHub Activity Graph
+
+![Vasanth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasanth3&theme=tokyo-night&hide_border=true&area=true)
+
 
 
 ---
